@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+    <meta charset="UTF-8">
+    <title>Менің портфолиом</title>
+</head>
+<body>
+    <h1>Құрбанбай Арслан</h1>
+    <p><strong>Байланыс:</strong> +7 777 888 99 00</p>
+    <p><strong>Пошта:</strong> arslan.kurbanbay@example.com</p>
+
+    <h2>Өзім жайлы</h2>
+    <p>Мен Құрбанбай Арсланмын. Веб-даму, бағдарламалау және дизайн саласына қызығамын. Жаңа жобалар жасап, код жазғанды жақсы көремін.</p>
+
+    <h2>Жобаларым</h2>
+    <ul>
+        <li><strong>Жоба 1:</strong> Жеке портфолио сайты</li>
+        <li><strong>Жоба 2:</strong> Python деректер талдау құралы</li>
+        <li><strong>Жоба 3:</strong> UI/UX дизайн жобалары</li>
+    </ul>
+
+    <h2>Байланыс</h2>
+    <form>
+        <label>Email:</label><br>
+        <input type="email" placeholder="email@example.com"><br><br>
+
+        <label>Хабарлама:</label><br>
+        <textarea placeholder="Хабарламаңызды жазыңыз"></textarea><br><br>
+
+        <button type="submit">Жіберу</button>
+    </form>
+
+    <footer>
+        <p>© 2025 Барлық құқықтар қорғалған</p>
+    </footer>
+</body>
+</html>
